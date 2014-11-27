@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">바로투두</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">정보</string>
+    <string name="info_name">정보</string>
+
+</resources>
