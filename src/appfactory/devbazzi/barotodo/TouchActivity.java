@@ -12,7 +12,7 @@ public class TouchActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_touch);
         
-        Toast.makeText(this, "ÇÒ ÀÏÀÌ »èÁ¦µÇ¾ú½À´Ï´Ù.", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "í•  ì¼ì´ ì‚­ì œë˜ì—ˆìŠµë‹ˆë‹¤.", Toast.LENGTH_SHORT).show();
         finish();
     }
 }
